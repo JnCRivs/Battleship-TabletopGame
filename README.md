@@ -1,6 +1,6 @@
 # Battleship Tabletop Game
 
-<img src="https://www.toysrus.ca/dw/image/v2/BDFX_PRD/on/demandware.static/-/Sites-toys-master-catalog/default/dw675c103b/images/04997A77_9.jpg?sw=767&sh=767&sm=fit" width="800" height="500">
+<img src="https://www.toysrus.ca/dw/image/v2/BDFX_PRD/on/demandware.static/-/Sites-toys-master-catalog/default/dw675c103b/images/04997A77_9.jpg?sw=767&sh=767&sm=fit" width="800" height="600">
 
 <h2>Introduction </h2>
 
