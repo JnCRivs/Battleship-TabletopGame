@@ -21,4 +21,4 @@ In 1943, Milton Bradley launched the game in a pencil and paper version. But it 
 </ul>
 
 <h3> Extensive Documentation & Downlodable files </h3>
-<p> For downlodable content check the releases tab on the right, it includes both the game in it's latest installment and complete documentation in Spanish.</p>
+<p> For downlodable content check the releases tab on the right, it includes both the game in it's original installment and complete documentation in Spanish.</p>
